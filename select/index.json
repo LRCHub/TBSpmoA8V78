@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Can't Buy Me Love (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-28T09:58:47.135547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Can't_Buy_Me_Love_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Can't_Buy_Me_Love_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Can't_Buy_Me_Love_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Can't_Buy_Me_Love_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Can't_Buy_Me_Love_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Can't_Buy_Me_Love_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Can't_Buy_Me_Love_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Can't_Buy_Me_Love_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/09_Can't_Buy_Me_Love_(Remastered)_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Can't_Buy_Me_Love_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love [Remastered 2015]",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Can't_Buy_Me_Love_[Remastered_2015]_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Can't_Buy_Me_Love_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Can't_Buy_Me_Love_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Can't_Buy_Me_Love_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Can't Buy Me Love (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/15_Can't_Buy_Me_Love_(Remastered_2009)_The_Beatles.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Can't Buy Me Love",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Can't_Buy_Me_Love_The_Beatles.txt"
+    }
+  ]
+}
